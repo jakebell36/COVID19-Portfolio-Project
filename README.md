@@ -1,4 +1,4 @@
-# Portfolio-Projects
+# COVID19-Portfolio-Project
 
 Independent Project using SQL to explore COVID-19 Data.
 
